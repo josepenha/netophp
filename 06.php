@@ -34,6 +34,6 @@ if($idade > $mediaIdade){
 
  echo "<p>Teste pelo VS Code e fazendo o push no Github e subindo na Appuni.<p>";
 
- echo "<p>Teste automático do PULL e DEPLOY na Appuni.<p>";
+ echo "<p>Teste automático do PULL e DEPLOY na Appuni. Deu certo?<p>";
 
 ?>
